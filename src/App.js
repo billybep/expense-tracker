@@ -9,7 +9,37 @@ const DUMMY_EXPENSES = [
     amount: 94.12,
     date: new Date(2022, 7, 14),
   },
-  { id: 'e2', title: 'New TV', amount: 799.49, date: new Date(2022, 2, 12) },
+  {
+    id: 'j1',
+    title: 'Credit Card',
+    amount: 134.16,
+    date: new Date(2022, 1, 14),
+  },
+  {
+    id: 'f1',
+    title: 'Life Insurance',
+    amount: 50.9,
+    date: new Date(2022, 2, 14),
+  },
+  {
+    id: 'm1',
+    title: 'Rent',
+    amount: 302.78,
+    date: new Date(2022, 3, 14),
+  },
+  {
+    id: 'a1',
+    title: 'Home Security',
+    amount: 200,
+    date: new Date(2022, 4, 14),
+  },
+  {
+    id: 'm1',
+    title: 'Other',
+    amount: 98.89,
+    date: new Date(2022, 5, 14),
+  },
+  { id: 'e2', title: 'New TV', amount: 300.49, date: new Date(2022, 2, 12) },
   {
     id: 'e3',
     title: 'Car Insurance',
